@@ -106,8 +106,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/sopadecodito/sopadecodito/output/snake.svg" alt="Snake animation" />
 
 ###
